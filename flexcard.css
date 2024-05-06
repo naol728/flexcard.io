@@ -84,20 +84,20 @@ input:checked + label .discription{
     transform: translateY(0) !important;
 }
 .card[for="c1"]{
-    background-image: url(/images/avatar.jpg);
+    background-image: url(images.jpeg);
 }
 .card[for="c2"]{
-    background-image: url(/images/audir8.jpg);
+    background-image: url(audi.jpg);
 }
 .card[for="c3"]{
-    background-image: url(/images/teslaroadster\(1\).jpg);
+    background-image: url(tesla.jpg);
 }
 .card[for="c4"]{
-    background-image: url(/images/bmw7.jpeg);
+    background-image: url(audi.jpg);
 }
 .card[for="c5"]{
-    background-image: url(/images/audi.jpg);
+    background-image: url(mclaren.jpg);
 }
 .card[for="c6"]{
-    background-image: url(/images/mclarin.jpg);
+    background-image: url(cadilac.jpg);
 }
